@@ -1,10 +1,20 @@
-<a name="1.0.1"></a>
-## 1.0.1 (2017-10-16)
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.0...v1.0.2) (2017-10-16)
 
 
 ### Bug Fixes
 
 * **api:** fix annoying bug ([358d064](https://github.com/toanalien/conventional-changelog-example/commit/358d064))
+
+
+### Features
+
+* add instruction file for setup conventional-changelog ([762714a](https://github.com/toanalien/conventional-changelog-example/commit/762714a))
+
+
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/toanalien/conventional-changelog-example/compare/2cb7ed3...v1.0.0) (2017-10-16)
 
 
 ### Features
