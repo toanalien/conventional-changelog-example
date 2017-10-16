@@ -1,15 +1,15 @@
-<a name="1.0.5"></a>
-## [1.0.5](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.3...v1.0.5) (2017-10-16)
-
-
-### Features
-
-* **kpi-editor:** improve button A in kpi-editor ([f7b8c47](https://github.com/toanalien/conventional-changelog-example/commit/f7b8c47))
+<a name=""></a>
+# [](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.4...v) (2017-10-16)
 
 
 ### Performance Improvements
 
-* commit đổi ý ([2eaf8c5](https://github.com/toanalien/conventional-changelog-example/commit/2eaf8c5))
+* day la commit o version 1.0.5 ([a1cd54e](https://github.com/toanalien/conventional-changelog-example/commit/a1cd54e))
+
+
+
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.3...v1.0.4) (2017-10-16)
 
 
 

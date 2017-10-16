@@ -1,6 +1,10 @@
 {
   "name": "cce",
+<<<<<<< HEAD
   "version": "1.0.5",
+=======
+  "version": "1.0.4",
+>>>>>>> 4e3eaef38d4ea30715873ed0cc49192fc5b780f4
   "author": "Toan VO <toanalien@gmail.com>",
   "license": "MIT"
 }
