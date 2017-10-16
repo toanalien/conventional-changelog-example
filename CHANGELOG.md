@@ -1,3 +1,13 @@
+<a name="1.0.3"></a>
+## [1.0.3](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.2...v1.0.3) (2017-10-16)
+
+
+### Features
+
+* tính năng mới abc ([fbdf641](https://github.com/toanalien/conventional-changelog-example/commit/fbdf641))
+
+
+
 <a name="1.0.2"></a>
 ## [1.0.2](https://github.com/toanalien/conventional-changelog-example/compare/v1.0.0...v1.0.2) (2017-10-16)
 
