@@ -1,0 +1,4 @@
+feature: improve button A in kpi-editor
+
+- commit #1: change button color
+- commit #2: add event to the button
